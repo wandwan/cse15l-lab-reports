@@ -22,7 +22,7 @@ This is an `inline code` right here. <br>
    </html>
 
 [Duck Duck Go](https://duckduckgo.com).
-![Tux, the Linux mascot](/tux.png)
+![Tux, the Linux mascot](/lab1/tux.png)
 ```
 public static void main(String[] args) {
   System.out.println("HELLO WORLD!");
