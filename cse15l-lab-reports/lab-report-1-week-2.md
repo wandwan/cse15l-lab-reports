@@ -37,7 +37,7 @@ The next to do is to try running some commands on the server. The server is runn
 6. whoami
 7. top -i
 8. ps -ef  
-</ul>
+
 which will look like this after finishing:
 
 ![Image](trycommands.png)
