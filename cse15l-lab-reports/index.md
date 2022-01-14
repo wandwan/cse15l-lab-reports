@@ -4,4 +4,4 @@ According to all known laws of aviation...
 
 <br>
 
-[lab report 1](/cse15l-lab-reports/cse15l-lab-reports/lab-report-1-week-2.md)
+[lab report 1](https://wandwan.github.io/cse15l-lab-reports/cse15l-lab-reports/lab-report-1-week-2.md)
