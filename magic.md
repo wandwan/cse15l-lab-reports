@@ -4,7 +4,12 @@
 #### Never
 ##### ever
 cs15l-lab-reports
+---
 **BOLD TEXT TEST**
+* list
+* list1
+* list2
+This is an `inline code` right here.
 ***REALLY IMPORTANT***
 >To be or not to be
 1. first
