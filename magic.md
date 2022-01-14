@@ -17,4 +17,5 @@ cs15l-lab-reports
    </html>
 
 f
-![Tux, the Linux mascot](/assets/images/tux.png)
+[Duck Duck Go](https://duckduckgo.com).
+![Tux, the Linux mascot](/tux.png)
