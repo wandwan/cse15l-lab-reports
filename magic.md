@@ -18,7 +18,8 @@ cs15l-lab-reports
 
 [Duck Duck Go](https://duckduckgo.com).
 ![Tux, the Linux mascot](/tux.png)
-```public static void main(String[] args) {
+```
+public static void main(String[] args) {
   System.out.println("HELLO WORLD!");
 }
 ```
