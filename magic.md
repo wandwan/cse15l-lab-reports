@@ -5,11 +5,11 @@
 ##### ever
 cs15l-lab-reports
 ---
-**BOLD TEXT TEST**
+**BOLD TEXT TEST** <br>
 * list
 * list1
-* list2
-This is an `inline code` right here.
+* list2 <br>
+This is an `inline code` right here. <br>
 ***REALLY IMPORTANT***
 >To be or not to be
 1. first
