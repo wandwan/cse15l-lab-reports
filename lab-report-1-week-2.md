@@ -13,7 +13,7 @@ Your second step should be installing vscode, which can be done [here](https://c
 Personally I like to have as many extensions as possible running at the same time on mine, which looks like this:
 ![Image](/vsc2.png)
 extensions that I found specifically useful for remote access are linked [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) and [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack). 
-## Remotely Connecting
+## 3. Remotely Connecting
 The next step is to remotely ssh into the server. This can be done by opening a terminal, which for linux is `ctrl + alt + t` and on windows is `windows + x` and clicking command prompt. Then you should enter the following command:
 ```
 $ssh cs15lwi22zz@ieng6.ucsd.edu
@@ -27,5 +27,18 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 If the IP is correct and the SHA256 fingerprint is correct, typing yes is safe.
 Then you should type your password that you set in step [1](#1-find-your-cse15l-account-information) and your terminal will then look like this:
-![Image](ssh.png)
+![Image](/ssh.png)
+## 4. Trying Some Commands
+The next to do is to try running some commands on the server. The server is running linux, so here are some quick commands to try running from the terminal: <br>
+1. cd ..
+2. ls -a
+3. ls -l
+4. rm -rf ~/non-existent-directory
+5. pwd
+6. whoami
+7. top -i
+8. ps -ef  
+</ul>
+which will look like this after finishing:
 
+![Image](/trycommands.png)
