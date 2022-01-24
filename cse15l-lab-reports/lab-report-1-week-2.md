@@ -29,14 +29,14 @@ Then I typed in my password that I set in step [1](#1-find-your-cse15l-account-i
 ![Image](ssh.png)
 ## 4. Trying Some Commands
 The next to do is to try running some commands on the server. The server is running linux, so here are some quick commands I tried running from the terminal: <br>
-1. cd ..
-2. ls -a
-3. ls -l
-4. rm -rf ~/non-existent-directory
-5. pwd
-6. whoami
-7. top -i
-8. ps -ef  
+1. `cd ..`
+2. `ls -a`
+3. `ls -l`
+4. `rm -rf ~/non-existent-directory`
+5. `pwd`
+6. `whoami`
+7. `top -i`
+8. `ps -ef` 
 
 which will look like this after finishing:
 
@@ -77,4 +77,6 @@ This currently looks like this:
 ![Image](remote.png)
 which I setup using the extensions linked [above](#2-install-vscode). The setup is to edit a ".config" file so that it looks similar to this:
 ![Image](config.png)
+This means it takes a grand total of zero keystrokes to ssh into cs15l. 
+I just click the bottom left corner in VSCode and click connect to host, and then select the correct ssh server.
 # Thanks for reading my lab report!
