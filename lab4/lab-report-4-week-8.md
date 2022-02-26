@@ -17,7 +17,7 @@ This is the output of the test against the person I reviewed (Joe Politz):
 
 ![Image](Pic2.png)
 
-##Snippet #2.
+## Snippet #2.
 Here is my code for testing Snippet 2.
 ```
 @Test
@@ -30,7 +30,7 @@ Here is my code for testing Snippet 2.
 This test passes the implementation I wrote.
 This test also passes the implementation I reviewed (Joe Politz).
 
-##Snippet #3.
+## Snippet #3.
 Here is my code for testing Snippet 3.
 ```
     @Test
@@ -48,7 +48,8 @@ This is the output of the test against the person I reviewed (Joe Politz):
 
 ![Image](Pic4.png)
 
-##Answers to questions:
+## Answers to questions: 
+
 Question #1:
 I do not think there is a small code change that can fix my program. I think the best way to implement this fix is with some sort of automata. This would require a complete rewrite.
 The reason that it's difficult is because you have to define being "inside backticks" and also there might exist backticks that don't close which means you have to rollback and fix state and properly parse brackets. Also there could be a lot of backticks in one bracket or parenthesis which means you have to use a loop.
