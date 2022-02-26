@@ -1,0 +1,11 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "markdown-parse/lib/hamcrest-core-1.3.jar",
+    "markdown-parse/lib/junit-4.13.2.jar"
+  ],
+  "java.project.outputPath": "markdown-parse/compileoutput",
+  "java.project.sourcePaths": [
+    "markdown-parse"
+  ]
+}
