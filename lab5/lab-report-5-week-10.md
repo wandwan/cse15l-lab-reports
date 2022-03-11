@@ -1,5 +1,5 @@
- # Lab Report 5
- We cloned both repos, copied the tests and script to both and then ran diff on the output of the two commands.
+# Lab Report 5
+We cloned both repos, copied the tests and script to both and then ran diff on the output of the two commands.
 I didn't search through manually, I just read diff to pick two tests. I edited the script.sh file to show which test is after a line number, and then I picked the two tests that were corresponding to mine.
 
 ## Question 1
